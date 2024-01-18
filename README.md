@@ -1,0 +1,2 @@
+# -getComputerInfoWithPy
+python dev task
